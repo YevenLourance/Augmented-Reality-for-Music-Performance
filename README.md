@@ -30,10 +30,10 @@ The goal of this project is to help the musicians' cooperation performance. So w
 At first, an drawn prototype is created as the following figure and then the coding and application is finalized as the link 
 [https://www.youtube.com/watch?v=FISCvoh2MTM](https://www.youtube.com/watch?v=FISCvoh2MTM) .
 
-![drawing prototype](./drawn_prototype.png) 
+![drawing prototype](./drawn_prototype.jpg) 
 
 A series of qualitative data has been analyzed through and several obvious suggetions have been extracted for the future work as the following figure shows.
-![results(data)](./data.png) 
+![results(data)](./data.jpg) 
 
 
 ## Requirements: ##
