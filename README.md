@@ -202,9 +202,15 @@ MRTK is based on the development Unity in C#.
 
 ### Demo for this app ###
 
+![demo](./AR.png) 
+
 The detailed demo operations are videoed in the link [https://www.youtube.com/watch?v=FISCvoh2MTM](https://www.youtube.com/watch?v=FISCvoh2MTM) 
 
+
+
 ### Mixed Reality Toolkit Update ###
+
+
 
 The [Mixed-Reality Toolkit package](https://github.com/microsoft/MixedRealityToolkit-Unity) is updated from time to time.
 It could be updated after each milestones by the Microsoft. 
